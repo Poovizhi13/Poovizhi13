@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Poovizhi
-- 👀 I’m interested in Web Designing and Web Development
-- 🌱 I’m currently doing my Bachelors of Computer Applications
+- 👀 I’m interested in Multimedia Modelling and Designing 
+- 🌱 I’m currently doing my Master of Computer Applications
 - 📫 You can also reach me on LinkedIn, my LinkedIn Id is https://www.linkedin.com/in/poovizhi 
 
 <!---
